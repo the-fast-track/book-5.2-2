@@ -16,6 +16,7 @@
     },
     "require-dev": {
         "symfony/debug-bundle": "5.2.*",
+        "symfony/maker-bundle": "^1.33",
         "symfony/stopwatch": "5.2.*",
         "symfony/web-profiler-bundle": "5.2.*"
     },
