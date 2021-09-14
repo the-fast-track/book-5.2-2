@@ -139,6 +139,9 @@
     "phar-io/version": {
         "version": "3.1.0"
     },
+    "php-webdriver/webdriver": {
+        "version": "1.11.1"
+    },
     "phpdocumentor/reflection-common": {
         "version": "2.2.0"
     },
@@ -407,6 +410,15 @@
     "symfony/options-resolver": {
         "version": "v5.2.12"
     },
+    "symfony/panther": {
+        "version": "1.0",
+        "recipe": {
+            "repo": "github.com/symfony/recipes",
+            "branch": "master",
+            "version": "1.0",
+            "ref": "877d853a05c6713665a2f4b954734592680abff6"
+        }
+    },
     "symfony/phpunit-bridge": {
         "version": "5.3",
         "recipe": {
@@ -448,6 +460,9 @@
     },
     "symfony/polyfill-uuid": {
         "version": "v1.23.0"
+    },
+    "symfony/process": {
+        "version": "v5.2.12"
     },
     "symfony/property-access": {
         "version": "v5.2.12"
