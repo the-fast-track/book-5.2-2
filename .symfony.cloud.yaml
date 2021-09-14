@@ -4,6 +4,7 @@ type: php:8.0
 
 runtime:
     extensions:
+        - blackfire
         - xsl
         - pdo_pgsql
         - apcu
